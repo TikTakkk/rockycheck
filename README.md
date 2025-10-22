@@ -1,6 +1,8 @@
 # rockycheck
 Outil d’audit (Reverse IP → Domain / Domain → Subdomains). Usage légal seulement.
 
+# BUY API REVERSE
+**https://t.me/tomaMA212** 
 
 # ROCKYCHECK
 
