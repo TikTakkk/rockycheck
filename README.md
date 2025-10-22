@@ -77,14 +77,6 @@ const (
 
 Important : Le programme vérifie si tu confirmes que tu es autorisé à l'utiliser. Tu dois soit lancer avec --auth soit exporter la variable d'environnement I_AM_AUTHORIZED=true.
 
-Sous Linux / macOS
-
-# Option 1 : variable d'environnement (recommandée)
-I_AM_AUTHORIZED=true go run main.go
-
-# Option 2 : flag
-go run main.go --auth
-
 ---
 
 Sous Windows (PowerShell)
