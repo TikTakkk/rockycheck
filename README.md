@@ -68,8 +68,8 @@ Dans `main.go` tu trouveras deux constantes (exemples) :
 
 ```go
 const (
-    reverseIPAPI     = "https://s79.reverseipdomain.com/?api_key=SOME_KEY&ip={ip}&limit=5000"
-    reverseDomainAPI = "https://sub-scan-api.reverseipdomain.com/?api_key=PUBLIC_LICENSE&domain={domain}"
+    reverseIPAPI     = "https://exemple.com/?api_key=SOME_KEY&ip={ip}&limit=5000"
+    reverseDomainAPI = "https://exemple.com/?api_key=PUBLIC_LICENSE&domain={domain}"
 )
 ```
 
